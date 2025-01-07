@@ -1,5 +1,5 @@
-## NAME-Pooja Priya.B
-## REG NO-24001090
+## NAME-keerthana T
+## REG NO-24002841
 # EXP-4 MONITORING LIGHT INTENSITY IN THING SPEAK CLOUD
 
 # AIM:
@@ -95,8 +95,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
 #include "ThingSpeak.h" 
 #define ldr_pin 34
-char ssid[] = "Pooja'sS23FE";   
-char pass[] = "Pooja@2006";   
+char ssid[] = "oppoA79";   
+char pass[] = "keetae95";   
 int keyIndex = 0;           
 WiFiClient  client;
 
@@ -163,7 +163,4 @@ void loop()
 # RESULT:
 
 Thus the light intensity values are updated in the Thing speak cloud using ESP32 controller.
-
-
-
 
